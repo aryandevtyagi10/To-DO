@@ -16,3 +16,27 @@ This project demonstrates the basics of building a **REST API** with Express and
 ---
 
 ## 📂 Project Structure
+
+todo-app/ 
+│── server.js        
+# Node.js + Express backend 
+│── public/ │    
+├── index.html 
+# Frontend UI │     
+├── style.css  
+# Styling │     
+└── script.js  
+# Frontend logic 
+│── package.json     
+# Dependencies 
+│── README.md       
+# Documentation
+
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/todo-app.git
+   cd todo-app
+   ```
